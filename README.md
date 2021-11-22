@@ -21,5 +21,5 @@ Desarrollado por: Juan Felipe Londoño Gaviria
 # HTML y CSS
 # Iconos: FontAwesome
 # Fondo: uiGradients
-# Dependencias: aRoute, ActiveDirectory, FromGroup, Validators.
+# Dependencias: aRouter, ActiveDirectory, FromGroup, Validators.
 ```
